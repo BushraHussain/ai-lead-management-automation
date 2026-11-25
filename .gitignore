@@ -221,3 +221,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+secrets/
+
+# n8n local storage
+.n8n/
+n8n_data/
+
+# Private data and logs
+private-data/
+*.log
+
+# Node.js
+node_modules/
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/
