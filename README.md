@@ -4,7 +4,7 @@ An end-to-end business automation project demonstrating the design, development,
 
 ## Project Overview
 
-This project focuses on designing and implementing a real-world business automation solution for Ducky Dot, an educational initiative offering practical AI and workflow automation courses.
+This project focuses on designing and implementing a real-world business automation solution for [Ducky Dot](https://duckydot.com/), an educational initiative offering practical AI and workflow automation courses.
 
 The objective is to streamline lead capture, qualification, CRM management, assignment and follow-up while improving operational efficiency, reliability and customer experience.
 
@@ -64,6 +64,6 @@ This public repository will not contain real customer information, sensitive bus
 
 ## Author
 
-Bushra Hussain
+[Bushra Hussain](https://www.linkedin.com/in/bushra-hussain/)
 
 AI Automation Engineering | Business Process Automation | Founder of Ducky Dot
